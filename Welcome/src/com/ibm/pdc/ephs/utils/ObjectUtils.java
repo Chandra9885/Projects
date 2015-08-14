@@ -22,11 +22,7 @@ package com.ibm.pdc.ephs.utils;
  * @author Chandrahasa
  *
  */
-public class NumberUtils
+public class ObjectUtils
 {
 
-	public void compareNumbers(int i, int j)
-	{
-		System.out.println("ABC");
-	}
 }
